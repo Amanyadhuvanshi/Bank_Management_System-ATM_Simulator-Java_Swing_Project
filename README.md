@@ -17,7 +17,7 @@ The Bank Management System is a Java Swing application that simulates basic bank
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amanyadhuvanshi/Bank_Management_System-ATM_Simulator-Java_Swing_Project.git
+   git clone https://github.com/your-username/Bank_Management_System-ATM_Simulator-Java_Swing_Project.git
    cd banking-system
    
    ```
